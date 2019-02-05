@@ -1,3 +1,10 @@
+
+---
+layout: post
+title: Predicting Discount Rates on Sur La Table
+---
+
+
 # Predicting discount rates on https://SurLaTable.com
 Scraping Sur La Table product pages and predicting a discount rate on their products
 
