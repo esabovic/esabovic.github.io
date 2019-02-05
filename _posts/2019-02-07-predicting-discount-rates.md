@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Predicting Discount Rates on Sur La Table
